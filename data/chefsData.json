@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ec7ee74e-0b38-437d-8c2f-f3e0f430f1d3",
+
+    "picture": "https://example.com/chef-profile-pic-1.jpg",
+    "name": "Maria Rodriguez",
+    "years_of_experience": 5,
+    "num_recipes": 25,
+    "likes": 2000,
+    "view_recipes_button": "https://example.com/chef-recipes-1"
+  },
+  {
+    "id": "c1371e8c-c02a-4d4b-88c6-d5e6d2b5a5a5",
+
+    "picture": "https://example.com/chef-profile-pic-2.jpg",
+    "name": "Jack Smith",
+    "years_of_experience": 8,
+    "num_recipes": 30,
+    "likes": 3000,
+    "view_recipes_button": "https://example.com/chef-recipes-2"
+  },
+  {
+    "id": "1f8d1b52-eeb3-4743-a0f3-2a81c54b69d7",
+
+    "picture": "https://example.com/chef-profile-pic-3.jpg",
+    "name": "Linda Lee",
+    "years_of_experience": 12,
+    "num_recipes": 40,
+    "likes": 5000,
+    "view_recipes_button": "https://example.com/chef-recipes-3"
+  },
+  {
+    "id": "93a3f3dc-b2db-4e90-a5f1-7e34c9dd9ba5",
+
+    "picture": "https://example.com/chef-profile-pic-4.jpg",
+    "name": "David Chen",
+    "years_of_experience": 15,
+    "num_recipes": 60,
+    "likes": 8000,
+    "view_recipes_button": "https://example.com/chef-recipes-4"
+  },
+  {
+    "id": "d2d2fc9a-c9f1-44f8-8bfe-029a1b81ad4e",
+
+    "picture": "https://example.com/chef-profile-pic-5.jpg",
+    "name": "Emily Wilson",
+    "years_of_experience": 3,
+    "num_recipes": 10,
+    "likes": 1000,
+    "view_recipes_button": "https://example.com/chef-recipes-5"
+  },
+  {
+    "id": "5e058ed4-8ad4-4a4a-94a4-868301a8f3e3",
+
+    "picture": "https://example.com/chef-profile-pic-6.jpg",
+    "name": "Michael Nguyen",
+    "years_of_experience": 10,
+    "num_recipes": 50,
+    "likes": 6000,
+    "view_recipes_button": "https://example.com/chef-recipes-6"
+  }
+]
