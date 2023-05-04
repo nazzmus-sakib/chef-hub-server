@@ -1,6 +1,8 @@
 const express = require("express");
 const app = express();
 const port = 3000;
+var cors = require("cors");
+app.use(cors());
 const chefsData = require("./data/chefsData.json");
 app.get("/", (req, res) => {
   res.send("Hello World!");

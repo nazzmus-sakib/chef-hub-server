@@ -1,62 +1,398 @@
 [
   {
     "id": "ec7ee74e-0b38-437d-8c2f-f3e0f430f1d3",
-
-    "picture": "https://example.com/chef-profile-pic-1.jpg",
+    "picture": "https://i.ibb.co/5Thx4tb/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy-1.jpg",
     "name": "Maria Rodriguez",
+    "description": "The chef is a culinary expert with extensive knowledge and experience in cooking. They are skilled in various cooking techniques and have a passion for creating unique and delicious dishes. They specialize in French cuisine and have received formal education in Culinary Arts from Le Cordon Bleu. With 15 years of experience, the chef has won several awards including the prestigious Michelin Star and James Beard Award. They are constantly experimenting with new ingredients and techniques to create innovative dishes that delight their customers' taste buds.",
     "years_of_experience": 5,
     "num_recipes": 25,
     "likes": 2000,
-    "view_recipes_button": "https://example.com/chef-recipes-1"
+    "recipes": [
+      {
+        "name": "Tom Yum Goong (Spicy Shrimp Soup)",
+        "description": "A classic Thai soup made with shrimp, mushrooms, lemongrass, chili, and lime juice.",
+        "ingredients": [
+          "1 lb. shrimp, peeled and deveined",
+          "4 cups water",
+          "3 stalks lemongrass, bruised and cut into pieces",
+          "1-2 Thai chilies, sliced",
+          "1 cup sliced mushrooms"
+        ],
+        "directions": "1. In a large pot, bring the water to a boil.\n2. Add the lemongrass and Thai chilies, and let simmer for 5 minutes.\n3. Add the shrimp and mushrooms, and cook until the shrimp turns pink.\n4. Season with lime juice and fish sauce to taste.\n5. Serve hot with rice.",
+        "prep_time": "10 minutes",
+        "cook_time": "15 minutes",
+        "total_time": "25 minutes",
+        "servings": 4,
+        "rating": 4.8
+      },
+      {
+        "name": "Pad See Ew (Stir-Fried Noodles with Soy Sauce)",
+        "description": "A simple but delicious stir-fry dish made with wide rice noodles, soy sauce, vegetables, and meat.",
+        "ingredients": [
+          "12 oz. wide rice noodles",
+          "2 tablespoons vegetable oil",
+          "3 cloves garlic, minced",
+          "8 oz. beef or chicken, sliced",
+          "1 cup broccoli florets"
+        ],
+        "directions": "1. Soak the rice noodles in warm water until soft, then drain and set aside.\n2. Heat the oil in a wok or large pan over high heat.\n3. Add the garlic and stir-fry for 10 seconds.\n4. Add the beef or chicken and stir-fry until browned.\n5. Add the broccoli and stir-fry until tender.\n6. Add the rice noodles and soy sauce, and stir-fry for 1-2 minutes until heated through.\n7. Serve hot.",
+        "prep_time": "10 minutes",
+        "cook_time": "15 minutes",
+        "total_time": "25 minutes",
+        "servings": 4,
+        "rating": 4.5
+      },
+      {
+        "name": "Green Curry (Thai Curry with Chicken)",
+        "description": "A spicy and flavorful Thai curry made with green curry paste, coconut milk, chicken, and vegetables.",
+        "ingredients": [
+          "1 lb. boneless chicken, sliced",
+          "2 tablespoons green curry paste",
+          "1 can coconut milk",
+          "1 cup bamboo shoots",
+          "1 cup green beans"
+        ],
+        "directions": "1. Heat a large pot over medium heat.\n2. Add the green curry paste and cook for 1-2 minutes until fragrant.\n3. Add the chicken and cook until browned on all sides.\n4. Add the coconut milk and stir to combine.\n5. Add the bamboo shoots and green beans, and simmer until the vegetables are tender and the chicken is cooked through.\n6. Season with fish sauce and palm sugar to taste.\n7. Serve hot with rice.",
+        "prep_time": "10 minutes",
+        "cook_time": "15 minutes",
+        "total_time": "25 minutes",
+        "servings": 4,
+        "rating": 4.2
+      }
+    ]
   },
   {
     "id": "c1371e8c-c02a-4d4b-88c6-d5e6d2b5a5a5",
-
-    "picture": "https://example.com/chef-profile-pic-2.jpg",
+    "picture": "https://i.ibb.co/KyDCgMf/chef2.jpg",
     "name": "Jack Smith",
+    "description": "The chef is a master at creating fusion cuisine, combining different cooking styles and ingredients to create unique flavors. They have a passion for experimenting with new ingredients and techniques, always seeking to push the boundaries of traditional cooking. With a degree in Culinary Arts and 10 years of experience, they have won multiple awards for their innovative dishes.",
     "years_of_experience": 8,
     "num_recipes": 30,
     "likes": 3000,
-    "view_recipes_button": "https://example.com/chef-recipes-2"
+    "recipes": [
+      {
+        "name": "Papaya Salad (Som Tum)",
+        "description": "A refreshing and spicy salad made with shredded green papaya, tomatoes, chili, and lime juice.",
+        "ingredients": [
+          "2 cups shredded green papaya",
+          "1-2 Thai chilies, sliced",
+          "1/2 cup cherry tomatoes, halved",
+          "2 cloves garlic, minced",
+          "2 tablespoons fish sauce",
+          "2 tablespoons lime juice"
+        ],
+        "directions": "1. In a large bowl, combine the shredded papaya, chili, and garlic.\n2. Add the fish sauce and lime juice, and toss to combine.\n3. Add the cherry tomatoes and toss again.\n4. Serve cold with roasted peanuts and sticky rice.",
+        "prep_time": "15 minutes",
+        "total_time": "15 minutes",
+        "servings": 2,
+        "rating": 4.6
+      },
+      {
+        "name": "Massaman Curry (Thai Curry with Beef)",
+        "description": "A rich and hearty Thai curry made with beef, potatoes, peanuts, and spices.",
+        "ingredients": [
+          "1 lb. beef, sliced",
+          "1 can coconut milk",
+          "1/2 cup Massaman curry paste",
+          "2 potatoes, peeled and cut into chunks",
+          "1/2 cup roasted peanuts"
+        ],
+        "directions": "1. Heat a large pot over medium heat.\n2. Add the Massaman curry paste and cook for 1-2 minutes until fragrant.\n3. Add the beef and cook until browned on all sides.\n4. Add the coconut milk and stir to combine.\n5. Add the potatoes and peanuts, and simmer until the vegetables are tender and the beef is cooked through.\n6. Season with fish sauce and palm sugar to taste.\n7. Serve hot with rice.",
+        "prep_time": "15 minutes",
+        "cook_time": "30 minutes",
+        "total_time": "45 minutes",
+        "servings": 4,
+        "rating": 4.9
+      },
+
+      {
+        "name": "Mango Sticky Rice (Khao Niao Mamuang)",
+        "description": "A popular Thai dessert made with sticky rice, fresh mango, and coconut milk.",
+        "ingredients": [
+          "1 cup sticky rice",
+          "1 can coconut milk",
+          "1/4 cup sugar",
+          "1/4 teaspoon salt",
+          "1 ripe mango, peeled and sliced"
+        ],
+        "directions": "1. Rinse the sticky rice until the water runs clear, then soak in water for at least 30 minutes.\n2. Drain the rice and place in a steamer basket lined with cheesecloth.\n3. Steam the rice for 20-25 minutes until cooked through.\n4. In a small saucepan, combine the coconut milk, sugar, and salt.\n5. Cook over low heat, stirring constantly, until the sugar has dissolved.\n6. Remove from heat and let cool.\n7. Serve the sticky rice with sliced mango and a drizzle of coconut sauce.",
+        "prep_time": "10 minutes",
+        "cook_time": "25 minutes",
+        "total_time": "35 minutes",
+        "servings": 4
+      },
+      {
+        "name": "Papaya Salad (Som Tum)",
+        "description": "A refreshing and spicy salad made with shredded green papaya, tomatoes, chili, and lime juice.",
+        "ingredients": [
+          "2 cups shredded green papaya",
+          "1-2 Thai chilies, sliced",
+          "1/2 cup cherry tomatoes, halved",
+          "2 cloves garlic, minced",
+          "2 tablespoons fish sauce",
+          "2 tablespoons lime juice"
+        ],
+        "directions": "1. In a large bowl, combine the shredded papaya, chili, and garlic.\n2. Add the fish sauce and lime juice, and toss to combine.\n3. Add the cherry tomatoes and toss again.\n4. Serve cold with roasted peanuts and sticky rice.",
+        "prep_time": "15 minutes",
+        "total_time": "15 minutes",
+        "servings": 2,
+        "rating": 4.6
+      }
+    ]
   },
   {
     "id": "1f8d1b52-eeb3-4743-a0f3-2a81c54b69d7",
 
-    "picture": "https://example.com/chef-profile-pic-3.jpg",
+    "picture": "https://i.ibb.co/fMYycv5/chef3-1.jpg",
     "name": "Linda Lee",
+    "description": "The chef is a specialist in seafood, with a deep understanding of different types of fish and shellfish. They are skilled in preparing and cooking seafood dishes in a variety of styles, from classic French to Japanese. With over 20 years of experience, they have honed their craft to perfection and are known for their impeccable taste and attention to detail.",
     "years_of_experience": 12,
     "num_recipes": 40,
     "likes": 5000,
-    "view_recipes_button": "https://example.com/chef-recipes-3"
+    "recipes": [
+      {
+        "name": "Tom Yum Goong (Spicy and Sour Shrimp Soup)",
+        "description": "A popular Thai soup made with shrimp, lemongrass, galangal, kaffir lime leaves, chili peppers, and lime juice.",
+        "ingredients": [
+          "2 cups water",
+          "2 stalks lemongrass, sliced",
+          "3-4 slices galangal",
+          "5-6 kaffir lime leaves",
+          "1-2 Thai chilies, sliced"
+        ],
+        "directions": "1. In a large pot, bring the water to a boil.\n2. Add the lemongrass, galangal, kaffir lime leaves, and Thai chilies.\n3. Simmer for 5-10 minutes to infuse the flavors.\n4. Add the shrimp and cook until pink and cooked through.\n5. Season with fish sauce, lime juice, and sugar to taste.\n6. Garnish with chopped cilantro and serve hot.",
+        "prep_time": "15 minutes",
+        "cook_time": "20 minutes",
+        "total_time": "35 minutes",
+        "servings": 4,
+        "rating": 4.8
+      },
+      {
+        "name": "Pad See Ew (Stir-Fried Noodles with Beef)",
+        "description": "A classic Thai dish made with wide rice noodles, beef, broccoli, and soy sauce.",
+        "ingredients": [
+          "1 lb. wide rice noodles",
+          "1/2 lb. beef sirloin, sliced thinly",
+          "2 cups broccoli florets",
+          "3 cloves garlic, minced",
+          "2 tablespoons vegetable oil"
+        ],
+        "directions": "1. Soak the rice noodles in warm water for 10-15 minutes until soft.\n2. Heat the vegetable oil in a wok or large skillet over high heat.\n3. Add the garlic and stir-fry for 1-2 minutes until fragrant.\n4. Add the beef and stir-fry until browned.\n5. Add the broccoli and stir-fry for 2-3 minutes until tender.\n6. Add the drained noodles and stir-fry until heated through.\n7. Season with soy sauce, oyster sauce, and sugar to taste.\n8. Garnish with chopped green onions and serve hot.",
+        "prep_time": "20 minutes",
+        "cook_time": "15 minutes",
+        "total_time": "35 minutes",
+        "servings": 4,
+        "rating": 4.5
+      },
+      {
+        "name": "Papaya Salad (Som Tum)",
+        "description": "A refreshing and spicy salad made with shredded green papaya, tomatoes, chili, and lime juice.",
+        "ingredients": [
+          "2 cups shredded green papaya",
+          "1-2 Thai chilies, sliced",
+          "1/2 cup cherry tomatoes, halved",
+          "2 cloves garlic, minced",
+          "2 tablespoons fish sauce",
+          "2 tablespoons lime juice"
+        ],
+        "directions": "1. In a large bowl, combine the shredded papaya, chili, and garlic.\n2. Add the fish sauce and lime juice, and toss to combine.\n3. Add the cherry tomatoes and toss again.\n4. Serve cold with roasted peanuts and sticky rice.",
+        "prep_time": "15 minutes",
+        "total_time": "15 minutes",
+        "servings": 2,
+        "rating": 4.6
+      }
+    ]
   },
   {
     "id": "93a3f3dc-b2db-4e90-a5f1-7e34c9dd9ba5",
-
-    "picture": "https://example.com/chef-profile-pic-4.jpg",
+    "picture": "https://i.ibb.co/t3HQBVN/chef4-1.jpg",
     "name": "David Chen",
+    "description": "The chef is a grill master, skilled in cooking meats and vegetables to perfection over an open flame. They are an expert in different cuts of meat and know how to bring out their natural flavors with the right seasonings and cooking techniques. With a passion for barbecuing and over a decade of experience, they are known for their mouth-watering grilled dishes.",
     "years_of_experience": 15,
     "num_recipes": 60,
     "likes": 8000,
-    "view_recipes_button": "https://example.com/chef-recipes-4"
+    "recipes": [
+      {
+        "name": "Pla Rad Prik (Fried Fish with Chili Sauce)",
+        "description": "A crispy fried fish served with a spicy chili sauce.",
+        "ingredients": [
+          "1 whole fish (tilapia or snapper)",
+          "1/4 cup flour",
+          "1/4 cup cornstarch",
+          "1 teaspoon salt",
+          "1/2 teaspoon pepper"
+        ],
+        "directions": "1. Clean and gut the fish, then pat dry with paper towels.\n2. Mix together the flour, cornstarch, salt, and pepper in a bowl.\n3. Coat the fish in the flour mixture.\n4. Heat the oil in a large skillet over medium-high heat.\n5. Fry the fish for 5-7 minutes on each side until crispy and golden brown.\n6. Remove the fish from the skillet and place on a paper towel to drain excess oil.\n7. In a small saucepan, mix together the chili sauce, fish sauce, and sugar.\n8. Heat the sauce over low heat until the sugar is dissolved.\n9. Serve the fried fish with the chili sauce on the side.",
+        "prep_time": "20 minutes",
+        "cook_time": "15 minutes",
+        "total_time": "35 minutes",
+        "servings": 4,
+        "rating": 4.2
+      },
+      {
+        "name": "Tom Kha Pla (Fish Coconut Soup)",
+        "description": "A flavorful soup made with fish, coconut milk, lemongrass, and galangal.",
+        "ingredients": [
+          "1 lb. fish fillets (cod or tilapia)",
+          "4 cups fish or chicken broth",
+          "1 can coconut milk",
+          "1 lemongrass stalk, bruised",
+          "2 kaffir lime leaves"
+        ],
+        "directions": "1. In a large pot, bring the broth to a boil.\n2. Add the lemongrass, kaffir lime leaves, and galangal.\n3. Simmer for 5-7 minutes until the flavors are infused.\n4. Add the fish fillets and cook until opaque.\n5. Add the coconut milk, fish sauce, and lime juice.\n6. Simmer for another 5 minutes.\n7. Garnish with chopped cilantro and serve hot.",
+        "prep_time": "20 minutes",
+        "cook_time": "20 minutes",
+        "total_time": "40 minutes",
+        "servings": 4,
+        "rating": 4.6
+      },
+      {
+        "name": "Pla Nueng Manao (Steamed Fish with Lime Sauce)",
+        "description": "A healthy and light dish made with steamed fish and a tangy lime sauce.",
+        "ingredients": [
+          "1 whole fish (sea bass or snapper)",
+          "2 tablespoons fish sauce",
+          "2 tablespoons lime juice",
+          "2 tablespoons chopped cilantro",
+          "1 tablespoon sliced ginger"
+        ],
+        "directions": "1. Clean and gut the fish, then place it in a steamer basket.\n2. In a small bowl, mix together the fish sauce, lime juice, cilantro, ginger, garlic, and chilies.\n3. Pour the sauce over the fish.\n4. Steam the fish for 15-20 minutes until cooked through.\n5. In a small saucepan, heat the oil and water together over low heat.\n6. Serve the steamed fish with the lime sauce on the side.",
+
+        "prep_time": "20 minutes",
+        "cook_time": "20 minutes",
+        "total_time": "40 minutes",
+        "servings": 2,
+        "rating": 4.8
+      }
+    ]
   },
   {
     "id": "d2d2fc9a-c9f1-44f8-8bfe-029a1b81ad4e",
 
-    "picture": "https://example.com/chef-profile-pic-5.jpg",
+    "picture": "https://i.ibb.co/tb8mZRJ/chef5-1.jpg",
     "name": "Emily Wilson",
+    "description": "The chef is a pastry expert, skilled in creating delicious and beautiful desserts. They have a deep understanding of different types of flour, sugar, and other ingredients, and are able to combine them in unique ways to create new flavors and textures. With a degree in Pastry Arts and years of experience in high-end restaurants, they are known for their stunning desserts that taste as good as they look.",
     "years_of_experience": 3,
     "num_recipes": 10,
     "likes": 1000,
-    "view_recipes_button": "https://example.com/chef-recipes-5"
+    "recipes": [
+      {
+        "name": "Pad Thai (Stir-Fried Noodles with Shrimp)",
+        "description": "A classic Thai dish made with stir-fried noodles, shrimp, and vegetables.",
+        "ingredients": [
+          "8 oz. rice noodles",
+          "1 lb. large shrimp, peeled and deveined",
+          "3 tablespoons vegetable oil",
+          "3 cloves garlic, minced",
+          "2 eggs, lightly beaten"
+        ],
+        "directions": "1. Soak the rice noodles in hot water for 10 minutes until soft.\n2. In a wok or large skillet, heat the oil over high heat.\n3. Add the garlic and stir-fry for 30 seconds.\n4. Add the shrimp and stir-fry until pink.\n5. Push the shrimp to one side of the pan and add the eggs to the other side.\n6. Scramble the eggs until cooked.\n7. Add the noodles, bean sprouts, scallions, peanuts, fish sauce, tamarind concentrate, sugar, and dried shrimp.\n8. Stir-fry until everything is well combined and heated through.\n9. Serve hot with additional chopped peanuts on top.",
+        "prep_time": "30 minutes",
+        "cook_time": "15 minutes",
+        "total_time": "45 minutes",
+        "servings": 4,
+        "rating": 4.5
+      },
+
+      {
+        "name": "Drunken Noodles (Pad Kee Mao)",
+        "description": "A spicy noodle dish made with flat rice noodles, basil, and chili.",
+        "ingredients": [
+          "8 oz. flat rice noodles",
+          "1 lb. beef, chicken, or pork, sliced",
+          "2 tablespoons vegetable oil",
+          "3 cloves garlic, minced",
+          "2 Thai chilies, sliced"
+        ],
+        "directions": "1. Soak the rice noodles in hot water for 10 minutes until soft.\n2. In a wok or large skillet, heat the oil over high heat.\n3. Add the garlic and Thai chilies and stir-fry for 30 seconds.\n4. Add the sliced meat and stir-fry until browned.\n5. Add the bell pepper and onion and stir-fry for another 2-3 minutes.\n6. Add the soaked rice noodles and stir-fry until heated through.\n7. Add the basil leaves, oyster sauce, soy sauce, fish sauce, and sugar.\n8. Stir-fry for another minute until everything is well combined.\n9. Serve hot with additional basil leaves on top.",
+        "prep_time": "30 minutes",
+        "cook_time": "15 minutes",
+        "total_time": "45 minutes",
+        "servings": 4,
+        "rating": 4.3
+      },
+      {
+        "name": "Khao Soi (Northern Thai Coconut Curry Noodles)",
+        "description": "A fragrant and creamy noodle dish with a spicy coconut curry sauce and crispy fried noodles on top.",
+        "ingredients": [
+          "8 oz. egg noodles",
+          "1 lb. boneless chicken thighs, sliced",
+          "2 tablespoons red curry paste",
+          "1 tablespoon vegetable oil",
+          "1 can coconut milk"
+        ],
+        "directions": "1. Cook the egg noodles according to package instructions and set aside.\n2. In a large pot, heat the vegetable oil over medium-high heat.\n3. Add the curry paste and stir-fry for 1-2 minutes until fragrant.\n4. Add the chicken and stir-fry until browned.\n5. Add the coconut milk, chicken broth, fish sauce, sugar, turmeric, coriander, cumin, cinnamon, and nutmeg.\n6. Bring to a boil and simmer for 15-20 minutes until the chicken is cooked through.\n7. Add the bok choy and red onion and simmer for another 2-3 minutes.\n8. Serve the noodles in bowls and ladle the curry sauce over the top.\n9. Garnish with cilantro, green onions, lime wedges, and crispy fried noodles.",
+        "prep_time": "30 minutes",
+        "cook_time": "30 minutes",
+        "total_time": "1 hour",
+        "servings": 4,
+        "rating": 4.7
+      }
+    ]
   },
   {
     "id": "5e058ed4-8ad4-4a4a-94a4-868301a8f3e3",
 
-    "picture": "https://example.com/chef-profile-pic-6.jpg",
+    "picture": "https://i.ibb.co/KLKXLBz/chef6.jpg",
     "name": "Michael Nguyen",
+    "description": "The chef is a farm-to-table advocate, with a focus on using fresh, local, and seasonal ingredients in their dishes. They have a deep understanding of different types of produce and know how to showcase their flavors in creative and delicious ways. With a passion for sustainability and a commitment to supporting local farmers, they are known for their farm-fresh dishes that are both healthy and flavorful.",
     "years_of_experience": 10,
     "num_recipes": 50,
     "likes": 6000,
-    "view_recipes_button": "https://example.com/chef-recipes-6"
+    "recipes": [
+      {
+        "name": "Thai Green Curry Vegetables",
+        "description": "A spicy and aromatic Thai green curry with a mix of vegetables and creamy coconut milk.",
+        "ingredients": [
+          "2 tablespoons green curry paste",
+          "1 tablespoon vegetable oil",
+          "1 can coconut milk",
+          "1 cup vegetable broth",
+          "1 red bell pepper, sliced"
+        ],
+        "directions": "1. In a large pot, heat the vegetable oil over medium heat.\n2. Add the green curry paste and stir-fry for 1-2 minutes until fragrant.\n3. Add the coconut milk and vegetable broth and bring to a boil.\n4. Add the red bell pepper, zucchini, mushrooms, bok choy, and bamboo shoots.\n5. Simmer for 10-15 minutes until the vegetables are tender.\n6. Add the fish sauce and sugar and stir to combine.\n7. Remove from heat and stir in the fresh basil leaves.\n8. Serve over cooked rice.",
+        "prep_time": "15 minutes",
+        "cook_time": "25 minutes",
+        "total_time": "40 minutes",
+        "servings": 4,
+        "rating": 4.5
+      },
+
+      {
+        "name": "Stir-Fried Vegetables with Garlic and Oyster Sauce",
+        "description": "A simple yet flavorful stir-fry with a mix of vegetables and a savory garlic-oyster sauce.",
+        "ingredients": [
+          "1 tablespoon vegetable oil",
+          "1 tablespoon minced garlic",
+          "1 red bell pepper, sliced",
+          "1 green bell pepper, sliced",
+          "1 zucchini, sliced"
+        ],
+        "directions": "1. In a wok or large skillet, heat the vegetable oil over high heat.\n2. Add the minced garlic and stir-fry for 1-2 minutes until fragrant.\n3. Add the red and green bell peppers, zucchini, mushrooms, and bok choy.\n4. Stir-fry for 3-4 minutes until the vegetables are tender-crisp.\n5. Add the oyster sauce, soy sauce, sugar, and black pepper.\n6. Stir-fry for another 1-2 minutes until the sauce is heated through.\n7. Serve over cooked rice.",
+        "prep_time": "10 minutes",
+        "cook_time": "10 minutes",
+        "total_time": "20 minutes",
+        "servings": 4,
+        "rating": 4.2
+      },
+
+      {
+        "name": "Thai Spicy Eggplant Stir-Fry",
+        "description": "A spicy and flavorful eggplant stir-fry with Thai basil and a savory sauce.",
+        "ingredients": [
+          "2 tablespoons vegetable oil",
+          "1 tablespoon minced garlic",
+          "1 tablespoon minced ginger",
+          "1 large eggplant, cut into 1-inch pieces",
+          "1 red bell pepper, sliced"
+        ],
+        "directions": "1. In a wok or large skillet, heat the vegetable oil over high heat.\n2. Add the minced garlic and ginger and stir-fry for 1-2 minutes until fragrant.\n3. Add the eggplant and stir-fry for 5-7 minutes until tender.\n4. Add the red bell pepper, mushrooms, and bamboo shoots and stir-fry for another 2-3 minutes.\n5. Add the fish sauce, soy sauce, sugar, and black pepper.\n6. Stir-fry for another 1-2 minutes until the sauce is heated through.\n7. Remove from heat and stir in the fresh Thai basil leaves.\n8. Serve over cooked rice.",
+        "prep_time": "15 minutes",
+        "cook_time": "20 minutes",
+        "total_time": "35 minutes",
+        "servings": 4,
+        "rating": 4.8
+      }
+    ]
   }
 ]
