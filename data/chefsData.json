@@ -10,6 +10,7 @@
     "recipes": [
       {
         "name": "Tom Yum Goong (Spicy Shrimp Soup)",
+        "recipie_img": "https://i.ibb.co/gSqfPhT/food1-1.jpg",
         "description": "A classic Thai soup made with shrimp, mushrooms, lemongrass, chili, and lime juice.",
         "ingredients": [
           "1 lb. shrimp, peeled and deveined",
@@ -27,6 +28,8 @@
       },
       {
         "name": "Pad See Ew (Stir-Fried Noodles with Soy Sauce)",
+        "recipie_img": "https://i.ibb.co/FDFt8XZ/food2-1.jpg",
+
         "description": "A simple but delicious stir-fry dish made with wide rice noodles, soy sauce, vegetables, and meat.",
         "ingredients": [
           "12 oz. wide rice noodles",
@@ -44,6 +47,8 @@
       },
       {
         "name": "Green Curry (Thai Curry with Chicken)",
+        "recipie_img": "https://i.ibb.co/Zm8cT9c/food3-1.jpg",
+
         "description": "A spicy and flavorful Thai curry made with green curry paste, coconut milk, chicken, and vegetables.",
         "ingredients": [
           "1 lb. boneless chicken, sliced",
@@ -72,6 +77,7 @@
     "recipes": [
       {
         "name": "Papaya Salad (Som Tum)",
+        "recipie_img": "https://i.ibb.co/xKkcwhb/food4-1.jpg",
         "description": "A refreshing and spicy salad made with shredded green papaya, tomatoes, chili, and lime juice.",
         "ingredients": [
           "2 cups shredded green papaya",
@@ -89,6 +95,8 @@
       },
       {
         "name": "Massaman Curry (Thai Curry with Beef)",
+        "recipie_img": "https://i.ibb.co/LhspvZ6/food5-1.jpg",
+
         "description": "A rich and hearty Thai curry made with beef, potatoes, peanuts, and spices.",
         "ingredients": [
           "1 lb. beef, sliced",
@@ -107,6 +115,8 @@
 
       {
         "name": "Mango Sticky Rice (Khao Niao Mamuang)",
+        "recipie_img": "https://i.ibb.co/PxR1FfZ/food6-1.jpg",
+
         "description": "A popular Thai dessert made with sticky rice, fresh mango, and coconut milk.",
         "ingredients": [
           "1 cup sticky rice",
@@ -120,23 +130,6 @@
         "cook_time": "25 minutes",
         "total_time": "35 minutes",
         "servings": 4
-      },
-      {
-        "name": "Papaya Salad (Som Tum)",
-        "description": "A refreshing and spicy salad made with shredded green papaya, tomatoes, chili, and lime juice.",
-        "ingredients": [
-          "2 cups shredded green papaya",
-          "1-2 Thai chilies, sliced",
-          "1/2 cup cherry tomatoes, halved",
-          "2 cloves garlic, minced",
-          "2 tablespoons fish sauce",
-          "2 tablespoons lime juice"
-        ],
-        "directions": "1. In a large bowl, combine the shredded papaya, chili, and garlic.\n2. Add the fish sauce and lime juice, and toss to combine.\n3. Add the cherry tomatoes and toss again.\n4. Serve cold with roasted peanuts and sticky rice.",
-        "prep_time": "15 minutes",
-        "total_time": "15 minutes",
-        "servings": 2,
-        "rating": 4.6
       }
     ]
   },
@@ -152,6 +145,8 @@
     "recipes": [
       {
         "name": "Tom Yum Goong (Spicy and Sour Shrimp Soup)",
+        "recipie_img": "https://i.ibb.co/sm5DJq8/food7-1.jpg",
+
         "description": "A popular Thai soup made with shrimp, lemongrass, galangal, kaffir lime leaves, chili peppers, and lime juice.",
         "ingredients": [
           "2 cups water",
@@ -169,6 +164,8 @@
       },
       {
         "name": "Pad See Ew (Stir-Fried Noodles with Beef)",
+        "recipie_img": "https://i.ibb.co/6s4CmR6/food8-1.jpg",
+
         "description": "A classic Thai dish made with wide rice noodles, beef, broccoli, and soy sauce.",
         "ingredients": [
           "1 lb. wide rice noodles",
@@ -186,6 +183,7 @@
       },
       {
         "name": "Papaya Salad (Som Tum)",
+        "recipie_img": "https://i.ibb.co/0Mkbg52/food9-1.jpg",
         "description": "A refreshing and spicy salad made with shredded green papaya, tomatoes, chili, and lime juice.",
         "ingredients": [
           "2 cups shredded green papaya",
@@ -215,6 +213,8 @@
     "recipes": [
       {
         "name": "Pla Rad Prik (Fried Fish with Chili Sauce)",
+        "recipie_img": "https://i.ibb.co/syr8ccK/food10-1.jpg",
+
         "description": "A crispy fried fish served with a spicy chili sauce.",
         "ingredients": [
           "1 whole fish (tilapia or snapper)",
@@ -232,6 +232,7 @@
       },
       {
         "name": "Tom Kha Pla (Fish Coconut Soup)",
+        "recipie_img": "https://i.ibb.co/LhspvZ6/food5-1.jpg",
         "description": "A flavorful soup made with fish, coconut milk, lemongrass, and galangal.",
         "ingredients": [
           "1 lb. fish fillets (cod or tilapia)",
@@ -249,6 +250,7 @@
       },
       {
         "name": "Pla Nueng Manao (Steamed Fish with Lime Sauce)",
+        "recipie_img": "https://i.ibb.co/6s4CmR6/food8-1.jpg",
         "description": "A healthy and light dish made with steamed fish and a tangy lime sauce.",
         "ingredients": [
           "1 whole fish (sea bass or snapper)",
@@ -279,6 +281,7 @@
     "recipes": [
       {
         "name": "Pad Thai (Stir-Fried Noodles with Shrimp)",
+        "recipie_img": "https://i.ibb.co/gSqfPhT/food1-1.jpg",
         "description": "A classic Thai dish made with stir-fried noodles, shrimp, and vegetables.",
         "ingredients": [
           "8 oz. rice noodles",
@@ -297,6 +300,7 @@
 
       {
         "name": "Drunken Noodles (Pad Kee Mao)",
+        "recipie_img": "https://i.ibb.co/Zm8cT9c/food3-1.jpg",
         "description": "A spicy noodle dish made with flat rice noodles, basil, and chili.",
         "ingredients": [
           "8 oz. flat rice noodles",
@@ -314,6 +318,7 @@
       },
       {
         "name": "Khao Soi (Northern Thai Coconut Curry Noodles)",
+        "recipie_img": "https://i.ibb.co/LhspvZ6/food5-1.jpg",
         "description": "A fragrant and creamy noodle dish with a spicy coconut curry sauce and crispy fried noodles on top.",
         "ingredients": [
           "8 oz. egg noodles",
@@ -342,6 +347,7 @@
     "recipes": [
       {
         "name": "Thai Green Curry Vegetables",
+        "recipie_img": "https://i.ibb.co/sm5DJq8/food7-1.jpg",
         "description": "A spicy and aromatic Thai green curry with a mix of vegetables and creamy coconut milk.",
         "ingredients": [
           "2 tablespoons green curry paste",
@@ -360,6 +366,7 @@
 
       {
         "name": "Stir-Fried Vegetables with Garlic and Oyster Sauce",
+        "recipie_img": "https://i.ibb.co/0Mkbg52/food9-1.jpg",
         "description": "A simple yet flavorful stir-fry with a mix of vegetables and a savory garlic-oyster sauce.",
         "ingredients": [
           "1 tablespoon vegetable oil",
@@ -378,6 +385,7 @@
 
       {
         "name": "Thai Spicy Eggplant Stir-Fry",
+        "recipie_img": "https://i.ibb.co/FDFt8XZ/food2-1.jpg",
         "description": "A spicy and flavorful eggplant stir-fry with Thai basil and a savory sauce.",
         "ingredients": [
           "2 tablespoons vegetable oil",
